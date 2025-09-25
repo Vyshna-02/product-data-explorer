@@ -1,1 +1,2 @@
-print("Hello from AbleSpace project!")
+echo print("Hello from AbleSpace project!") > app.py
+
